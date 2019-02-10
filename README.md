@@ -3,3 +3,5 @@ Examples using Apex Exception
 
 Example to Show a validation rule error message thrown from a child object 
 and how to use exception method setMessage.
+
+Example to use Assert Methods outside Apex test classes
